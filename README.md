@@ -51,7 +51,7 @@ The **Smart Home Project** utilizes the ATMEGA32A microcontroller to create a sy
 ## Installation
 **Schematic**:
 
-![Screenshot 2024-11-26 145122](https://github.com/user-attachments/assets/7a67eb5e-e9d9-4e18-9580-40eb8b4f1ce6) 
+![image alt]([https://github.com/user-attachments/assets/7a67eb5e-e9d9-4e18-9580-40eb8b4f1ce6](https://github.com/NourGalal7/Smart_Home_Project/blob/main/images.jpeg?raw=true)) 
 
 1. Assemble the hardware according to the past schematic.  
 2. Flash the firmware to the ATMEGA32A microcontroller using an SPI programmer.  
