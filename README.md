@@ -82,9 +82,10 @@ The **Smart Home Project** utilizes the ATMEGA32A microcontroller to create a sy
 The following team members developed this project:
 1. Ali sherif gaafar beltagy - alisherif8848@gmail.com
 2. Abdelrahman Galal El said Ibrahim -  alisherif8848@gmail.com
-3. Ayman Mohamed Mohamed  -  aymanmohamed3313@outlook.com
-4. Mahmoud Mohamed Salah  - mahmoudms2003@gmail.com
-5. Ziad Refaie Abu Alftooh  - zaidrar200@gmail.com
+3. Hadeel Wael Salah Abdulrahman - hadeelwael2004@gmail.com 
+4. Nour Eldin Mahmoud Galal  - noorabugalal@gmail.com 
+5. Salma Tarek Ahmed  - salmamonairy70@gmail.com
+6. Tarek Ahmed Elkfoury - tarek.ahmed4a@gmail.com
 
 ## Demo
 
